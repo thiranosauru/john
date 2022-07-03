@@ -1,0 +1,15 @@
+@charset
+.item{
+    background: #0bd;
+    color:#fff;
+    margin:10px;
+    padding: 11px;0px;
+    float: left;
+
+}
+div{
+    float: left;
+    }
+    #box1, #box2, #box3 {
+        float: left;
+        }

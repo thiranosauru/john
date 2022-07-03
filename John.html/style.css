@@ -1,0 +1,30 @@
+.item {
+    background:#0bd;
+    color:#fff;
+    padding: 10px;
+    width: 200px;
+    margin: 10px;
+    float: left;
+}
+body {
+	min-height: 650px;
+	background: #f7f7f7 url(ジョン.png) center to/100% auto no-repeat;
+}
+p{
+    background-color: black;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    p{
+        background-color: black;
+         color:green;
+     }
+ }
+ 
+ @media screen and (max-width: 480px) {
+    p{
+        background-color: black;
+         color:red;
+     }
+ }
